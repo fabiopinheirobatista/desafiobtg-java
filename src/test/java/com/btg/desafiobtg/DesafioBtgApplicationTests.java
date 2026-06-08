@@ -1,13 +1,12 @@
-package com.br.apitest;
+package com.btg.desafiobtg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiTestApplicationTests {
+class DesafioBtgApplicationTests {
 
     @Test
     void contextLoads() {
     }
-
 }
